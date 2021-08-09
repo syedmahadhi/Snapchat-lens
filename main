@@ -1,5 +1,0 @@
-from robolink import*
-from robodk import*
-
-
-RL= Robolinl()
